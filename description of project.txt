@@ -1,0 +1,35 @@
+Matrix Adventure Game
+Overview
+This project is an interactive Python-based text game called Matrix Adventure. It offers players an immersive experience of exploring a matrix grid filled with hidden objects, challenges, and rewards.
+
+Features
+Gameplay: Players navigate through a grid-based matrix, collecting points while avoiding obstacles like bombs.
+Profile Management: Users can register, log in, and manage their profiles within the game.
+Interactive Menus: Menu options provide various functionalities, including gameplay, profile management, and accessing game instructions.
+Scoring System: The game keeps track of players' scores and displays the best scores achieved.
+Components
+Matrix Class: Manages the game's grid, player movement, object placement, and game logic.
+Player Profile Class: Handles user profiles, including registration, login, and profile management.
+Menu Class: Provides interactive menus for navigating through game options.
+Database Class: Manages data storage for user registration and player profiles.
+How to Play
+Registration/Login: Players can register new accounts or log in with existing ones.
+Main Menu: Choose from options like starting the game, managing your profile, viewing high scores, or accessing game instructions.
+Gameplay: Explore the matrix grid, collect points, and avoid bombs to achieve the highest score possible.
+Profile Management: Change your password, update your username, or view your profile information.
+High Scores: Check the best scores achieved by players.
+Technologies Used
+Python
+JSON for data storage
+Installation
+Clone the repository.
+Ensure you have Python installed on your system.
+Run the main script (main.py) to start the game.
+Contributing
+Contributions are welcome! Feel free to open issues or pull requests for any enhancements or bug fixes.
+
+Credits
+This project was developed by [Radoslav Bankov].
+
+License
+This project is licensed under the MIT License.
