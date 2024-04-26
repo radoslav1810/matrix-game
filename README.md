@@ -29,7 +29,7 @@ Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any enhancements or bug fixes.
 
 Credits
-This project was developed by [Your Name].
+This project was developed by [Radoslav Bankov].
 
 License
 This project is licensed under the MIT License.
